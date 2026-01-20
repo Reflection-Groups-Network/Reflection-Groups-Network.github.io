@@ -1,16 +1,7 @@
----
----
+* Remove the footer title line */
+.site-footer .footer-heading { display: none !important; }
 
-@import "minima";
-
-/* Remove the footer title line "Reflection Groups Network" */
-.site-footer .footer-heading {
-  display: none;
-}
-
-/* Optional: keep description visible (if it’s elsewhere) */
-
-site-footer a,
-.site-footer .site-title {
-  display: none;
-}
+/* If a second title is still there, hide footer site-title links too */
+.site-footer .site-title,
+.site-footer a[href="/"],
+.site-footer a.site-title { display: none !important; }
