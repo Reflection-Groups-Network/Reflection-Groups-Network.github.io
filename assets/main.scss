@@ -9,3 +9,8 @@
 }
 
 /* Optional: keep description visible (if it’s elsewhere) */
+
+site-footer a,
+.site-footer .site-title {
+  display: none;
+}
