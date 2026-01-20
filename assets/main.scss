@@ -51,3 +51,28 @@ pre, code {
   color: #dcdcdc;
   border-color: #444;
 }
+
+
+/* ===== Header text contrast fix ===== */
+
+/* Site title */
+.site-title,
+.site-title:visited {
+  color: #f0f0f0;   /* near white */
+}
+
+/* Navigation links */
+.site-nav .page-link {
+  color: #e0e0e0;
+}
+
+/* Hover effect (important for usability) */
+.site-nav .page-link:hover {
+  color: #ffffff;
+  text-decoration: underline;
+}
+
+/* Mobile menu icon */
+.site-nav .menu-icon svg {
+  fill: #e0e0e0;
+}
