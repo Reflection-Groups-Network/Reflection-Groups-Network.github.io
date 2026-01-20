@@ -1,7 +1,14 @@
 ---
-layout: page
-title: The Reflection Groups Network
+layout: home
+title: ""
 ---
+
+<div style="display: flex; align-items: center; gap: 20px;">
+  <h1 style="margin: 0;">The Reflection Groups Network</h1>
+  <img src="{{ '/assets/images/HyperbolicTilingShi.png' | relative_url }}"
+       alt="RGN logo"
+       width="120">
+</div>
 
 ***This network aims to bring together researchers in all areas of mathematics for which reflection groups in any form plays a role [...]({{ "/about-rgn/" | relative_url }})***
 
