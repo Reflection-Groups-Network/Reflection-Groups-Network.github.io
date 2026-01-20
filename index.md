@@ -3,11 +3,20 @@ layout: home
 title: ""
 ---
 
-<div style="display: flex; align-items: center; gap: 20px;">
-  <h1 style="margin: 0;">The Reflection Groups Network</h1>
-  <img src="{{ '/assets/images/HyperbolicTilingShi.png' | relative_url }}"
-       alt="RGN logo"
-       width="120">
+<div style="display: flex; align-items: center; gap: 32px;">
+  <!-- Left block: title -->
+  <div style="flex: 1;">
+    <h1 style="margin: 0; font-size: 3rem; line-height: 1.1;">
+      The Reflection Groups Network
+    </h1>
+  </div>
+
+  <!-- Right block: logo -->
+  <div style="flex-shrink: 0;">
+    <img src="{{ '/assets/images/HyperbolicTilingShi.png' | relative_url }}"
+         alt="RGN logo"
+         width="160">
+  </div>
 </div>
 
 ***This network aims to bring together researchers in all areas of mathematics for which reflection groups in any form plays a role [...]({{ "/about-rgn/" | relative_url }})***
