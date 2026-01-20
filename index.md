@@ -3,7 +3,7 @@ layout: page
 title: The Reflection Groups Network
 ---
 
-This network aims to bring together researchers in all areas of mathematics where reflection sgroups in any form plays a role [...](aboout-rgn/))
+***This network aims to bring together researchers in all areas of mathematics where reflection sgroups in any form plays a role [...](aboout-rgn/))***
 
 
 ## Upcoming events
