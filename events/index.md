@@ -3,7 +3,6 @@ layout: page
 title: Upcoming events
 ---
 
-## Upcoming events
 ### C.I.M.E. - Algebraic and geometric combinatorics: Coxeter group theory and representation theory
 - Date: June 29-July 3, 2026
 - Location: Cetraro, Italy
