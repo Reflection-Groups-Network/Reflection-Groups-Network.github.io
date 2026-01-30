@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About the Reflection Groups Network
+title: About RGN
 permalink: /about-rgn/
 ---
 
