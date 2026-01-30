@@ -26,6 +26,9 @@ The variety of contexts in which they appear naturally invites a diversity of te
 
 The RGN is born out of discussions in 2012 between Matthew Dyer, Christophe Hohllweg and Vincent Pilaud.
 
+# Contact
+
+To contact us (to advertise your event on the RGN webpage, to organize an event with the RGN, ...), please write to [TO BE COMPLERED]
 
 # Steering committee
 
@@ -39,6 +42,8 @@ The RGN is born out of discussions in 2012 between Matthew Dyer, Christophe Hohl
   Departament de Matemàtiques i Informàtica, Universitat de Barcelona, Spain  
 
 - *Petra Schwer*  
-  Heidelberg University, Institute for Mathematics, Germany  
+  Heidelberg University, Institute for Mathematics, Germany
+
+  
 
 
