@@ -1,6 +1,6 @@
 ---
 layout: page
-title: From the web
+title: Reflections on the web
 ---
 
 ## Some cool and useful ressources on the web
