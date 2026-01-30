@@ -19,10 +19,16 @@ html, body {
 
 /* Main layout blocks */
 .site-header,
-.page-content,
+/*.page-content,*/
 .site-footer {
   background-color: #3f3f3f;
 }
+
+/* ===== Main content panel (lighter) ===== */
+.page-content {
+  background-color: #4a4a4a;   /* lighter than page background */
+}
+
 
 /* Subtle separators */
 .site-header {
