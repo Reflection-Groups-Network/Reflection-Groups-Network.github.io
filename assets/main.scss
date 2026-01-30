@@ -109,3 +109,22 @@ pre, code {
   }
 }
 
+/* ===== Lighter main reading panel (Minima real fix) ===== */
+
+/* Outer page background */
+html, body {
+  background-color: #3f3f3f;
+}
+
+/* Actual visible content panel */
+.page-content .wrapper {
+  background-color: #4a4a4a !important;  /* lighter panel */
+}
+
+/* Optional: add breathing room */
+.page-content .wrapper {
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+
