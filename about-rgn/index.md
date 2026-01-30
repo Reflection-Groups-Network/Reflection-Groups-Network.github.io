@@ -12,6 +12,7 @@ Instances of reflection groups include:
 - examples of non-positively curved (CAT(0)) groups,
 - discrete reflection groups in geometric group theory, and
 - arithmetic reflection groups defined over number fields.
+- ...
 
 
 Moreover,
