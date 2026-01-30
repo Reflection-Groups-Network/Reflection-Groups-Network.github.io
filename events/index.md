@@ -3,9 +3,7 @@ layout: page
 title: Upcoming events
 ---
 
-Below are listed events in relation to the mission of the RGN: to bring together researchers in all areas of mathematics for which reflection groups in any form plays a role. 
-
-***The RGN gladly advertise events on this web page that fits this mission.*** The events that are organized under the initiative of the RGN are identified by the label '**RGN-event**'.
+Below are listed events in relation to the mission of the RGN: to bring together researchers in all areas of mathematics for which reflection groups in any form plays a role. The events that are organized under the initiative of the RGN are identified by the label '**RGN-event**'.
 
 
 ### C.I.M.E. - Algebraic and geometric combinatorics: Coxeter group theory and representation theory (RGN-event)
@@ -15,3 +13,7 @@ Below are listed events in relation to the mission of the RGN: to bring together
 
 ### Event 2
 ...
+
+
+
+***The RGN gladly advertise events on this web page that fits this mission.*** If you are interested to advertise your event on the RGN website, please write to ... [TO BE COMPLETED] 
