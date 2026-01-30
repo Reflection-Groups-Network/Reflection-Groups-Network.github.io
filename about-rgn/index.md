@@ -24,25 +24,21 @@ The variety of contexts in which they appear naturally invites a diversity of te
 
 ***This network aims to bring together researchers from these strongly interconnected and vibrant areas, fostering exchange on recent developments and shared perspectives on common structures.***
 
+The RGN is born out of discussions in 2012 between Matthew Dyer, Christophe Hohllweg and Vincent Pilaud.
 
 
 # Steering committee
 
 - *Christophe Hohlweg*  
-  LaCIM / UQAM, Département de mathématiques – LaCIM,  
-  Université du Québec à Montréal,  
-  CP 8888 Succ. Centre-Ville, Montréal, Québec H3C 3P8, Canada  
-  `hohlweg.christophe@uqam.ca`
+  LaCIM / UQAM, Département de mathématiques – LACIM, Université du Québec à Montréal, Québec, Canada  
 
 - *Martina Lanini*  
   Università di Roma Tor Vergata, Dipartimento di Matematica, Italy  
-  `lanini@mat.uniroma2.it`
 
 - *Vincent Pilaud*  
   Departament de Matemàtiques i Informàtica, Universitat de Barcelona, Spain  
-  `vincent.pilaud@ub.edu`
 
 - *Petra Schwer*  
   Heidelberg University, Institute for Mathematics, Germany  
-  `schwer@mathi.uni-heidelberg.de`
+
 
