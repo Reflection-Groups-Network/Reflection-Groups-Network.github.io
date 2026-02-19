@@ -26,7 +26,6 @@ title: ""
   </div>
 </div>
 
-***This network aims to bring together researchers in all areas of mathematics for which groups and symmetries, and particularly reflections, in any form play a role  [(read more)]({{ "/about-rgn/" | relative_url }})***
 
 ## Upcoming events
 - **The RGN Online Seminar** — Next talk: *DATE*, **Speaker**, Title ([details]({{ "/online-seminar/" | relative_url }}))
