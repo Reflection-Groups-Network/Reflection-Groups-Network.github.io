@@ -22,7 +22,7 @@ title: ""
   <div style="flex-shrink: 0;">
     <img src="{{ '/assets/images/HyperbolicTilingShi.png' | relative_url }}"
          alt="RGN logo"
-         width="160">
+         width="200">
   </div>
 </div>
 
