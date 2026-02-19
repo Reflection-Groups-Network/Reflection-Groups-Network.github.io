@@ -9,6 +9,13 @@ title: ""
     <h1 style="margin: 0; font-size: 3rem; line-height: 1.1;">
       The Reflection Groups Network
     </h1>
+     <p>
+  <strong><em>
+    This network aims to bring together researchers in all areas of mathematics 
+    for which groups and symmetries, and particularly reflections, in any form play a role
+    <a href="{{ '/about-rgn/' | relative_url }}">(read more)</a>
+  </em></strong>
+</p>
   </div>
 
   <!-- Right block: logo -->
