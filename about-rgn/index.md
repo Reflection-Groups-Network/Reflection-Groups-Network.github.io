@@ -24,7 +24,7 @@ The variety of contexts in which they appear naturally invites a diversity of te
 To bring together researchers from these strongly interconnected and vibrant areas, fostering exchange on recent developments and shared perspectives on common structures through:
 - the RGN online seminar;
 - the organization each year of a workshop, a school or a conference (labelled 'RGN-event' on this site);
-- advertizing events that fit the RGN aim.
+- promote scientific events in relation to our mission.
 
 *RGN is an inclusive network, the above subkjects are mentionned for information. Please contact us of any subject in which groups and symmetries appear.*
 
