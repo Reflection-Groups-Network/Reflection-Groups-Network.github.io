@@ -14,7 +14,7 @@ Instances of reflection groups include:
 - examples of non-positively curved (CAT(0)) groups,
 - discrete reflection groups in geometric group theory,
 - arithmetic reflection groups defined over number fields, and
-- Weyl groups in Lie theory, representation theory and theory og Cluster algebras via root systems.
+- Weyl groups in Lie theory, representation theory and Cluster algebras via root systems.
 
 Understanding the properties of these groups, whether finite or infinite, is often key to understanding the structures built upon them. 
 The variety of contexts in which they appear naturally invites a diversity of techniques and viewpoints. 
