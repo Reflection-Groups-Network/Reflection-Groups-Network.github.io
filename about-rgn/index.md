@@ -19,13 +19,20 @@ Instances of reflection groups include:
 Understanding the properties of these groups, whether finite or infinite, is often key to understanding the structures built upon them. 
 The variety of contexts in which they appear naturally invites a diversity of techniques and viewpoints. 
 
-*This network aims to bring together researchers from these strongly interconnected and vibrant areas, fostering exchange on recent developments and shared perspectives on common structures.*
+# Mission
+
+To bring together researchers from these strongly interconnected and vibrant areas, fostering exchange on recent developments and shared perspectives on common structures through:
+- the RGN online seminar;
+- the organization each year of a workshop, a school or a conference (labelled 'RGN-event' on this site);
+- advertizing events that fit the RGN aim.
+
+*RGN is an inclusive network, the above subkjects are mentionned for information. Please contact us of any subject in which groups and symmetries appear.*
 
 The RGN is born out of discussions in 2012 between Matthew Dyer, Christophe Hohllweg and Vincent Pilaud.
 
 # Contact
 
-To contact us (to advertise your event on the RGN webpage, to organize an event with the RGN, to inform us of a subject where groups and symmetries appear, ...), please write to [TO BE COMPLERED]
+To contact us (to advertise your event on the RGN webpage, to organize an event with the RGN, ...), please write to [TO BE COMPLERED]
 
 # Steering committee
 
