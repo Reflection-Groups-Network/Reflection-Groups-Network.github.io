@@ -4,17 +4,16 @@ title: About RGN
 permalink: /about-rgn/
 ---
 
-***The Reflection Groups Network aims to create a space for reflection on areas where the notion of groups and symmetries naturally appear.***
+***The Reflection Groups Network aims to create a space for reflection on areas where the notion of groups with mirror symetries naturally appear.***
 
 Reflection groups and Coxeter groups can be approached from algebraic, geometric, topological and combinatorial perspectives. 
-They are deeply intertwined with a wide range of natural algebraic and geometric structures and play a central role across many areas of mathematics. 
-Instances of reflection groups include:
+They are deeply intertwined with a wide range of natural algebraic, combinatorial and geometric structures and play a central role across many areas of mathematics. Instances of the appearence of reflection groups include:
 - symmetry groups of regular and abstract polytopes,
+- Weyl groups in Lie theory, representation theory and Cluster algebras via root systems,
 - quotients of Artin--Tits (braid) groups,
-- examples of non-positively curved (CAT(0)) groups,
-- discrete reflection groups in geometric group theory,
-- arithmetic reflection groups defined over number fields, and
-- Weyl groups in Lie theory, representation theory and Cluster algebras via root systems.
+- discrete reflection groups on quadratic spaces,
+- examples of non-positively curved (CAT(0)) groups, and
+- arithmetic reflection groups defined over number fields.
 
 Understanding the properties of these groups, whether finite or infinite, is often key to understanding the structures built upon them. 
 The variety of contexts in which they appear naturally invites a diversity of techniques and viewpoints. 
@@ -26,7 +25,7 @@ To bring together researchers from these strongly interconnected and vibrant are
 - the organization each year of a workshop, a school or a conference (labelled 'RGN-event' on this site);
 - promote scientific events in relation to the RGN aim.
 
-*RGN is an inclusive network, the above subkjects are mentionned for information. Please contact us of any subject in which groups and symmetries appear.*
+*RGN is an inclusive network, the above subkjects are mentionned for information. Please contact us of any subject in which the noton of groups with mirror symmetries appear.*
 
 The RGN is born out of discussions in 2012 between Matthew Dyer, Christophe Hohllweg and Vincent Pilaud.
 
