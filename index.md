@@ -12,7 +12,7 @@ title: ""
      <p style="margin-top: 1.5rem;">
       <em>
     This network aims to bring together researchers in all areas of mathematics 
-    for which groups and symmetries, and particularly reflections, in any form play a role
+    for which the notion of groups with symmetries, and particularly reflections, in any form play a role
     <a href="{{ '/about-rgn/' | relative_url }}">(read more)</a>
      </em>
     </p>
