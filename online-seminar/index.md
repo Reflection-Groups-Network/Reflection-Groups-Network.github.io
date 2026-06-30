@@ -28,9 +28,9 @@ The seminar takes place twice a year:
 <div style="display: flex; align-items: center; gap: 32px;">
   <!-- Left block: title -->
   <div style="flex: 1;">
-    <h3 style="margin: 0; font-size: 3rem; line-height: 1.1;">
+    <h5 style="margin: 0; font-size: 3rem; line-height: 1.1;">
        Archive (Past seminars)
-    </h3>
+    </h5>
      <p style="margin-top: 1.5rem;">
       <em>
   	To be completed
