@@ -1,13 +1,13 @@
 ---
 layout: page
-title: ""
+title: The RGN Online seminar
 ---
 
 <div style="display: flex; align-items: center; gap: 32px;">
   <!-- Left block: title -->
   <div style="flex: 1;">
     <h1 style="margin: 0; font-size: 3rem; line-height: 1.1;">
-      The RGN Online seminar 
+       
     </h1>
      <p style="margin-top: 1.5rem;">
       <em>
