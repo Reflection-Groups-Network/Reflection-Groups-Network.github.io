@@ -12,13 +12,13 @@ The seminar takes place online twice a year:
 Each session is constituted of two talks of 45 minutes.
 
 ### Next session: 9 November 2026 (at 15:30 CEST)
-* Zoom link (or “available to subscribers”)*
+- Zoom link (or “available to subscribers”)
 
-**Speaker 1 (Affiliation) **
+**Speaker 1 (Affiliation)**
 - Title
 - Abstract
 
-** Online coffee break**
+**Online coffee break**
 
 **Speaker 2 (Affiliation)**
 - Title
