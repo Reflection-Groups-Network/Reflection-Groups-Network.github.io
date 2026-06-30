@@ -33,7 +33,7 @@ The seminar takes place twice a year:
     </h3>
      <p style="margin-top: 1.5rem;">
       <em>
-  	To be completed
+      	To be completed
      </em>
     </p>
   </div>
