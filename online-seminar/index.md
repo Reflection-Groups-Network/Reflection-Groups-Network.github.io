@@ -28,7 +28,7 @@ title: The RGN Online seminar
 </div>
 
 
-### Next session: 9 November 2026 (at 15:30 CEST)
+### Next session: 9 November 2026 (at 15:00 CEST)
 - Zoom link (to be announced)
 
 **Speaker 1 (Affiliation)**
