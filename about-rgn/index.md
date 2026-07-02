@@ -26,7 +26,7 @@ We aim to bring together researchers from these strongly interconnected and vibr
 - the organization of **an annual event** like a workshop, a school or a conference (labelled 'RGN-event' on this site);
 - **promote scientific events** in relation to the RGN aim.
 
-*RGN is an inclusive network, the above subjects are mentioned for information. Please contact us of any subject with a flavour of reflection groups or mirror symmetries.*
+*RGN is an inclusive network, the above subjects are mentioned for information. Please contact us to inform us of any subject with a flavour of reflection groups or mirror symmetries.*
 
 The RGN is born out of discussions in 2012 between Matthew Dyer, Christophe Hohlweg and Vincent Pilaud.
 
