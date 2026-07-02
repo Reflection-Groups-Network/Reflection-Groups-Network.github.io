@@ -38,5 +38,5 @@ title: ""
 
 ## Mailing list  
 To receive announcements: **subscribe by sending an Email to**  
-*listserv(at)listserv(dot)uni-heidelberg(dot)de*  
+  *listserv(at)listserv(dot)uni-heidelberg(dot)de*  
 with content equal to "subscribe REFLECTIONGROUPSNETWORK-IMA", nothing else, no signature please, keep the subject empty.
