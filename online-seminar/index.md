@@ -3,7 +3,7 @@ layout: page
 title: The RGN Online seminar
 ---
 
-<div style="display: flex; align-items: flex-start; gap: 32px;">
+<div style="display: flex; align-items: flex-start; gap: 32px; margin-bottom: 2em;">
   <!-- Left column -->
   <div style="flex: 1;">
    The seminar takes place twice a year:<br>
@@ -25,7 +25,6 @@ title: The RGN Online seminar
          alt="RGN Seminar"
          width="220">
   </div>
-<br><br><br>
 </div>
 
 
