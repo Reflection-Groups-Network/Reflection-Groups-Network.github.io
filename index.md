@@ -30,7 +30,7 @@ title: ""
 ## Upcoming events
 - **The RGN Online Seminar** — Next talk: *9 November 2026*, **Speakers (TBA)** ([details]({{ "/online-seminar/" | relative_url }}))
 - **C.I.M.E. - Algebraic and geometric combinatorics: Coxeter group theory and representation theory (RGN-event)** — *June 29-July 3, 2026*, Cetraro, Italy (<a href="https://sites.google.com/unifi.it/cime/c-i-m-e-courses/c-i-m-e-courses-2026/algebraic-and-geometric-combinatorics-coxeter-group-theory-and-representat" target="_blank" rel="noopener">details</a>)
-- [**More upcoming events**]({{ "/events/" | relative_url }})
+- [**More upcoming events**]({{ "/events/" | relative_url }}) 
 
 *The RGN gladly advertise events on this web page that fits the RGN [mission]({{ "/about-rgn/" | relative_url }}).* If you are interested to advertise your event on the RGN website, please write to: *reflectiongroupsnetwork(at)mathi(dot)uni-heidelberg(dot)de*
 
