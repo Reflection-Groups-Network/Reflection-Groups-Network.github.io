@@ -25,7 +25,7 @@ title: The RGN Online seminar
          alt="RGN Seminar"
          width="220">
   </div>
-<br>
+<br><br><br>
 </div>
 
 
