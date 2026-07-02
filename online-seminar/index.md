@@ -3,6 +3,39 @@ layout: page
 title: The RGN Online seminar
 ---
 
+<div style="display: flex; align-items: flex-start; gap: 32px;">
+
+  <!-- Left column -->
+  <div style="flex: 1;">
+
+    <p><strong>The seminar takes place twice a year:</strong></p>
+
+    <p>
+      <strong>1) the second Monday of November</strong><br>
+      at 15:00–17:00 (CEST), 9:00–11:00 (EDT),
+      19:30–21:30 (IST), 1:00–3:00 (+1 day AEST)
+    </p>
+
+    <p>
+      <strong>2) the last Friday of April</strong><br>
+      at 9:00–11:00 (CEST), 3:00–5:00 (EDT),
+      12:30–14:30 (IST), 17:00–19:00 (AEST)
+    </p>
+
+    <p><em>Each session is constituted of two talks of 45 minutes separated by an online coffee break.</em></p>
+
+  </div>
+
+  <!-- Right column -->
+  <div style="flex-shrink: 0;">
+    <img src="{{ '/assets/images/PermH3.jpeg' | relative_url }}"
+         alt="RGN Seminar"
+         width="220">
+  </div>
+
+</div>
+
+
 The seminar takes place twice a year:  
 1) **the second Monday of November**  
  at 15:00-17:00 (CEST), 9:00-11:00 (EDT), 19:30-21:30 (IST), 1:00-3:00 (+1 day AEST)    
