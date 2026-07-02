@@ -4,7 +4,7 @@ title: About RGN
 permalink: /about-rgn/
 ---
 
-******The Reflection Groups Network aims to create a space for exchange between researchers from all areas of mathematics in which the concept of groups with mirror symmetries naturally occurs.***
+***The Reflection Groups Network aims to create a space for exchange between researchers from all areas of mathematics in which the concept of groups with mirror symmetries naturally occurs.***
 
 Reflection groups and Coxeter groups can be approached from algebraic, geometric, topological and combinatorial perspectives. 
 They are deeply intertwined with a wide range of natural algebraic, combinatorial and geometric structures and play a central role across many areas of mathematics. Instances of the appearence of reflection groups include:
