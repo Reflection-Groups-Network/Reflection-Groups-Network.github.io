@@ -7,7 +7,7 @@ title: The RGN Online seminar
   <!-- Left column -->
   <div style="flex: 1;">
 
-    <strong>The seminar takes place twice a year:</strong><br><br>
+    <strong>The seminar takes place twice a year:</strong><br>
 
     <strong>1) The second Monday of November</strong><br>
     at 15:00–17:00 (CEST), 9:00–11:00 (EDT),
@@ -15,7 +15,7 @@ title: The RGN Online seminar
 
     <strong>2) The last Friday of April</strong><br>
     at 9:00–11:00 (CEST), 3:00–5:00 (EDT),
-    12:30–14:30 (IST), 17:00–19:00 (AEST)<br><br>
+    12:30–14:30 (IST), 17:00–19:00 (AEST)<br>
 
     <em>Each session is constituted of two talks of 45 minutes separated by an online coffee break.</em>
   </div>
@@ -26,6 +26,7 @@ title: The RGN Online seminar
          alt="RGN Seminar"
          width="220">
   </div>
+<br>
 </div>
 
 
