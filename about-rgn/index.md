@@ -32,7 +32,7 @@ The RGN is born out of discussions in 2012 between Matthew Dyer, Christophe Hohl
 
 # Contact
 
-To contact us (to advertise your event on the RGN webpage, to organize an event with the RGN, ...), please write to [TO BE COMPLERED]
+To contact us (to advertise your event on the RGN webpage, to organize an event with the RGN, ...), please write to *reflectiongroupsnetwork(at)mathi(dot)uni-heidelberg(dot)de*
 
 # Steering committee
 
