@@ -11,7 +11,7 @@ Below are listed events in relation to the mission of the RGN: to bring together
 - Organizers: Christophe Hohlweg and Martina Lanini.
 - <a href="https://sites.google.com/unifi.it/cime/c-i-m-e-courses/c-i-m-e-courses-2026/algebraic-and-geometric-combinatorics-coxeter-group-theory-and-representat" target="_blank" rel="noopener">Event web site</a>
 
-### Some events that fits the RGN mission
+### Some events that fit the RGN mission
 
 ***The RGN gladly advertise events on this web page that fits this mission.*** If you are interested to advertise your event on the RGN website, please write to: *reflectiongroupsnetwork(at)mathi(dot)uni-heidelberg(dot)de*
 
