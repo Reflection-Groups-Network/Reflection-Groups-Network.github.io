@@ -35,6 +35,7 @@ The events that are organized under the initiative of the RGN are identified by 
 
 - **The RGN Online Seminar** — Next talk: *9 November 2026*, **Speakers (TBA)** ([details]({{ "/online-seminar/" | relative_url }}))
 - **C.I.M.E. - Algebraic and geometric combinatorics: Coxeter group theory and representation theory (<span style="color:#9bb7e0;"><strong>RGN-event</strong></span>)** — *June 29-July 3, 2026*, Cetraro, Italy (<a href="https://sites.google.com/unifi.it/cime/c-i-m-e-courses/c-i-m-e-courses-2026/algebraic-and-geometric-combinatorics-coxeter-group-theory-and-representat" target="_blank" rel="noopener">details</a>)
+- **Workshop Combinatorics meets Coxeter Groups (CCG)**, *Sept. 30-Oct. 02, 2026*, Bielefled, Germany (<a href="https://trr358.math.uni-bielefeld.de/workshops/view/731" target="_blank" rel="noopener">details</a>)
 - [**More upcoming events**]({{ "/events/" | relative_url }}) 
 
 
