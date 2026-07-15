@@ -9,8 +9,9 @@ title: The RGN Online seminar
    The seminar is held twice a year:<br>
 
     <div style="margin-left: 1em;"><strong>1 Autumn sessions: during the second week of November</strong></div>
-    <div style="margin-left: 2em;"> at 15:00–17:00 (CET), 9:00–11:00 (EST),
-    19:30–21:30 (IST), 6:00-8:00 (PST), 1:00–3:00 (+1 day AEST)</div>
+    <div style="margin-left: 2em;"> at 18:00–20:00 (CET), 12:00–14:00 (EST), 9:00-11:00 (PST),
+    22:30–00:30 (IST),  4:00–6:00 (+1 day AEST)</div>
+
 
    <div style="margin-left: 1em;"><strong>2) Spring session: during the last week of April</strong></div>
     <div style="margin-left: 2em;"> at 9:00–11:00 (CEST), 3:00–5:00 (EDT), 00:00-2:00 (PDT), 
