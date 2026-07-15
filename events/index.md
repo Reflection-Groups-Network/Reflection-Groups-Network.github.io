@@ -5,7 +5,9 @@ title: Upcoming events
 
 Below are listed events in relation to the mission of the RGN: to bring together researchers in all areas of mathematics for which reflection groups in any form plays a role. The events that are organized under the initiative of the RGN are identified by the label '<span style="color:#9bb7e0;"><strong>RGN-event</strong></span>'.
 
-- - **Workshop TBD (<span style="color:#9bb7e0;"><strong>RGN-event</strong></span>)** — *in 2027*
+### RGN events
+
+ - **Workshop TBD (<span style="color:#9bb7e0;"><strong>RGN-event</strong></span>)** — *in 2027*
 
 
 ### Some events that fit the RGN mission

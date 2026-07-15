@@ -38,6 +38,9 @@ The events that are organized under the initiative of the RGN are identified by 
 - **Workshop Combinatorics meets Coxeter Groups (CCG)**, *Sept. 30-Oct. 02, 2026*, Bielefeld, Germany (<a href="https://trr358.math.uni-bielefeld.de/workshops/view/731" target="_blank" rel="noopener">details</a>)
 - [**More upcoming events**]({{ "/events/" | relative_url }}) 
 
+ - **Workshop TBD (<span style="color:#9bb7e0;"><strong>RGN-event</strong></span>)** — *in 2027*
+
+
 
 
 ## [Past Events]({{ "/past-events/" | relative_url }})
