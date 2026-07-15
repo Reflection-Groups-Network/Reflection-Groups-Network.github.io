@@ -62,6 +62,7 @@ title: The RGN Online seminar
       at 9:00–11:00 (CEST), 3:00–5:00 (EDT), 00:00–2:00 (PDT),
       12:30–14:30 (IST), and 17:00–19:00 (AEST)
     </div>
+<br>
     <p>
       <em>
         Each session consists of two 45-minute talks, separated by an
