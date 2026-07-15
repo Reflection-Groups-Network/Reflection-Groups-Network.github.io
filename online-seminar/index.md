@@ -53,7 +53,7 @@ title: The RGN Online seminar
     </div>
     <div style="margin-left: 2em;">
       at 18:00–20:00 (CET), 12:00–14:00 (EST), 9:00–11:00 (PST),
-      22:30–00:30 (IST), and 4:00–6:00 the following day (AEST)
+      22:30–00:30 (IST), and 4:00–6:00 (AEST +1 day)
     </div>
     <div style="margin-left: 1em;">
       <strong>2) Spring session: during the last week of April</strong>
