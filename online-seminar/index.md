@@ -84,13 +84,13 @@ title: The RGN Online seminar
 ### Next session (Autumn): Wednesday 11 November 2026 (at 15:00 CEST)
 - Zoom link (to be announced)
 
-**Speaker 1 (Affiliation)**
+**Sara Blley (University of Washington, USA)**
 - Title
 - Abstract
 
 **Online coffee break**
 
-**Speaker 2 (Affiliation)**
+**Piotr Przytycki (McGill University, Canada)**
 - Title
 - Abstract
 
