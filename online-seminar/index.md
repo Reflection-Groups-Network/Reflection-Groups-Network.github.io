@@ -81,7 +81,7 @@ title: The RGN Online seminar
 </div>
 
 
-### Next session (Autumn): Wednesday 11 November 2026 (at 15:00 CEST)
+### Next session (Autumn): Wednesday 11 November 2026 (at 18:00 CEST)
 - Zoom link (to be announced)
 
 **Sara Blley (University of Washington, USA)**
