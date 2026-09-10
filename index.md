@@ -33,7 +33,7 @@ title: ""
 
 The events that are organized under the initiative of the RGN are identified by the label ‘<span style="color:#9bb7e0;"><strong>RGN-event</strong></span>’.
 
-- **The RGN Online Seminar** — Next talk: *11 November 2026*, **Sara Billey (U. Washington) and Piotr Przytycki (McGill U.)** ([details]({{ "/online-seminar/" | relative_url }}))
+- **The RGN Online Seminar** — Next session: *11 November 2026*, **Sara Billey (U. Washington) and Piotr Przytycki (McGill U.)** ([details]({{ "/online-seminar/" | relative_url }}))
 - **Workshop Combinatorics meets Coxeter Groups (CCG)**, *Sept. 30-Oct. 02, 2026*, Bielefeld, Germany (<a href="https://trr358.math.uni-bielefeld.de/workshops/view/731" target="_blank" rel="noopener">details</a>)
 - **Workshop TBD (<span style="color:#9bb7e0;"><strong>RGN-event</strong></span>)** — *in 2027*
 - [**More upcoming events**]({{ "/events/" | relative_url }}) 
