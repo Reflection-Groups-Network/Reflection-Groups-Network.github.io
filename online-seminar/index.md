@@ -85,14 +85,14 @@ title: The RGN Online seminar
 - Zoom link (to be announced)
 
 **Sara Billey (University of Washington, USA)**
-- Title
-- Abstract
+- Title: TBA
+- Abstract: TBA
 
 **Online coffee break**
 
 **Piotr Przytycki (McGill University, Canada)**
-- Title
-- Abstract
+- Title: TBA
+- Abstract: TBA
 
 ### Past seminars
 
