@@ -1,6 +1,6 @@
 ---
 layout: home
-title: ""
+title: "The Reflection Groups Network - Coxeter and reflection groups and groups with symmetries"
 ---
 
 <div style="display: flex; align-items: center; gap: 32px;">

@@ -1,6 +1,14 @@
 title: Reflection Groups Network
 description: An international research network on reflection groups, Coxeter groups, Weyl groups, complex reflection groups, root systems, hyperplane arrangements, braid groups, Artin groups
+
+url: "https://reflection-groups-network.github.io"
+baseurl: ""
+
 theme: minima
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
 
 header_pages:
   - online-seminar/index.md
