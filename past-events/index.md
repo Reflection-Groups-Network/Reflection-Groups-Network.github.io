@@ -14,3 +14,9 @@ title: Past events
 - 2012-08 — <a href="{{ '/past-events/2012-CoGrCoGe/' | relative_url }}" target="_blank" rel="noopener">
   Coxeter Groups meet Convex Geometry (Minicourses / Workshop)
 </a> LACIM, UQAM, Montréal, Canada.
+
+### Some past events that fit the RGN mission
+
+***The RGN gladly advertise events on this web page that fits this mission.*** If you are interested to advertise your event on the RGN website, please write to: *reflectiongroupsnetwork(at)mathi(dot)uni-heidelberg(dot)de*
+
+- **Workshop Combinatorics meets Coxeter Groups (CCG)**, *Sept. 30-Oct. 02, 2026*, Bielefeld, Germany (<a href="https://trr358.math.uni-bielefeld.de/workshops/view/731" target="_blank" rel="noopener">details</a>)

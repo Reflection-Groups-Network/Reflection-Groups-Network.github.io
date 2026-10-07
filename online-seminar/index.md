@@ -96,5 +96,5 @@ title: The RGN Online seminar
 
 ### Past seminars
 
-To be completed
+First online seminar will take place on November 11 2026
 
