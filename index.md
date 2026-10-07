@@ -20,7 +20,7 @@ title: ""
   organizing the RGN Online Seminar and research workshops, as well
   as publicizing conferences and resources related to its mission.
   <a href="{{ '/about-rgn/' | relative_url }}">Read more about the network</a>.
-<\p>
+</p>
   </div>
 
   <!-- Right block: logo -->
