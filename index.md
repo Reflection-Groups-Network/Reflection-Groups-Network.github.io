@@ -11,16 +11,9 @@ title: ""
     </h1>
      <p style="margin-top: 1.5rem;">
       <em>
-    The Reflection Groups Network (RGN) is an international academic network aiming to bring together researchers in all areas of mathematics for which the notion of groups with symmetries, and particularly reflections, in any form play a role. 
+    The Reflection Groups Network (RGN) is an international academic network aiming to bring together researchers in all areas of mathematics for which the notion of groups with symmetries, and particularly reflections, in any form play a role.  The RGN is coordinated by a steering committee composed of academics from different international universities <a href="{{ '/about-rgn/' | relative_url }}">Read more about the network</a>.
      </em>
     </p>
-<p>
-      The network is coordinated by a steering committee composed of
-  academics from different international universities. Its activities include
-  organizing the RGN Online Seminar and research workshops, as well
-  as publicizing conferences and resources related to its mission.
-  <a href="{{ '/about-rgn/' | relative_url }}">Read more about the network</a>.
-</p>
   </div>
 
   <!-- Right block: logo -->
