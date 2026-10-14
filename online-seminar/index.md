@@ -91,8 +91,8 @@ title: The RGN Online seminar
 **Online coffee break**
 
 **Piotr Przytycki (McGill University, Canada)**
-- Title: TBA
-- Abstract: TBA
+- Title: K(pi,1) conjecture for 3-dimensional Artin groups
+- Abstract: This is joint work with Jingyin Huang. I will outline our proof of the K(pi,1) conjecture for Artin groups of dimension at most 3. The key Artin group is the one whose Coxeter group is the isometry group of the icosahedral tiling of the hyperbolic space with dodecahedral vertex links. A related square complex satisfies a new type of combinatorial nonpositive curvature.
 
 ### Past seminars
 
