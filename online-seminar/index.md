@@ -85,8 +85,8 @@ title: The RGN Online seminar
 - Zoom link (to be announced)
 
 **Sara Billey (University of Washington, USA)**
-- Title: TBA
-- Abstract: TBA
+- Title: Affine Higher Bruhat Orders
+- Abstract: The higher Bruhat orders are partial orders introduced by Manin and Schechtman in 1989. The first higher Bruhat order is isomorphic to the well-known weak Bruhat order on the symmetric group. The second higher Bruhat order is a partial order on commutation classes of reduced expressions for the longest permutation. In general, these partial orders can be equivalently described using hyperplane arrangements, oriented matroids, and zonotopal tilings. The higher Bruhat orders have applications to areas such as Bott-Samelson varieties and Steenrod algebras. Generalizing the higher Bruhat orders to other settings has been an area of recent interest. Following work of Ben Elias and Daniel Hothem, we address the problem of extending the notion of higher Bruhat orders to all intervals in the affine symmetric groups. We prove our construction holds for all symmetric group intervals. We will discuss a conjectural generalization for the affine case along with current results pertaining to heaps and commutativity classes of reduced words in the affine setting. This talk is based on joint work with Herman Chau and Kevin Liu.
 
 **Online coffee break**
 
