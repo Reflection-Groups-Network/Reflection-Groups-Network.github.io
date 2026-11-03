@@ -12,7 +12,7 @@ title: The Reflection Group Network
     
      The main regular hub will be the RGN online seminar that will be held twice a year.<br>
     
-     The RGN is coordinated by a steering committee composed of academics from University of Heidelberg, Università di Roma Tor Vergata, UQAM and Universitat de Barcelona. <a href="{{ '/about-rgn/' | relative_url }}">Read more about the network</a>.
+     The RGN is coordinated by a steering committee composed of academics from U. Heidelberg, U. di Roma Tor Vergata, UQAM and U. de Barcelona. <a href="{{ '/about-rgn/' | relative_url }}">Read more about the network</a>.
      </em>
     </p>
   </div>
