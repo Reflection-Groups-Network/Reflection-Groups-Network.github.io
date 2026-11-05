@@ -12,7 +12,7 @@ title: The Reflection Group Network
     
      The main regular of the RGN is the <strong>RGN online seminar</strong> that is held twice a year.<br>
     
-     The RGN is coordinated by a steering committee composed of academics from U. Heidelberg, U. di Roma Tor Vergata, UQAM and U. de Barcelona. <a href="{{ '/about-rgn/' | relative_url }}">Read more about the network</a>.
+     The RGN is coordinated by a steering committee composed of academics from <a href="https://www.ub.edu/comb/vincentpilaud/" target="_blank" rel="noopener noreferrer">U. de Barcelona</a>, <a href="https://web.mathi.uni-heidelberg.de/ggt/schwer" target="_blank" rel="noopener noreferrer">U. Heidelberg</a>, <a href="https://sites.google.com/site/martinalanini5/home/" target="_blank" rel="noopener noreferrer">U. di Roma Tor Vergata</a> and <a href="https://hohlweg.math.uqam.ca/" target="_blank" rel="noopener noreferrer">UQAM</a>. <a href="{{ '/about-rgn/' | relative_url }}">Read more about the network</a>.
      </em>
     </p>
   </div>
