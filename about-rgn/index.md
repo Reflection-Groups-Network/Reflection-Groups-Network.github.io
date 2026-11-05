@@ -36,16 +36,16 @@ To contact us (to advertise your event on the RGN webpage, to organize an event 
 
 # Steering committee
 
-- *Christophe Hohlweg*  
+- *<a href="https://hohlweg.math.uqam.ca/" target="_blank" rel="noopener noreferrer">Christophe Hohlweg</a>*  
   Département de mathématiques – LACIM, Université du Québec à Montréal, Québec, Canada  
 
-- *Martina Lanini*  
+- *<a href="https://sites.google.com/site/martinalanini5/home/" target="_blank" rel="noopener noreferrer">Martina Lanini</a>*  
   Università di Roma Tor Vergata, Dipartimento di Matematica, Italy  
 
-- *Vincent Pilaud*  
+- *<a href="https://www.ub.edu/comb/vincentpilaud/" target="_blank" rel="noopener noreferrer">Vincent Pilaud</a>*  
   Departament de Matemàtiques i Informàtica, Universitat de Barcelona, Spain  
 
-- *Petra Schwer*  
+- *<a href="https://web.mathi.uni-heidelberg.de/ggt/schwer" target="_blank" rel="noopener noreferrer">Petra Schwer</a>*  
   Heidelberg University, Institute for Mathematics, Germany
 
   
