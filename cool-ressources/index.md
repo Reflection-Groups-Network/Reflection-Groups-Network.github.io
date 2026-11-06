@@ -11,5 +11,5 @@ title: Reflections on the web
 ### Visualizations
 - <a href="https://www.jgibson.id.au/lievis/affine_weyl/" target="_blank" rel="noopener">The affine Weyl group - extensive webapp on Hecke algebra related objects (Joel Gibson)</a>
 - <a href="https://buildings.gallery/" target="_blank" rel="noopener">Spherical and affine buildings (Bram Bekker) </a>
-- <a href="https://mathelabor.ovgu.de/shadows.html" target="_blank" rel="noopener">Shadows and Bruhat intervals (Henri Nikoleit, Petra Schwer)</a>
+- <a href="https://www.mathi.uni-heidelberg.de/~reflectiongroupsnetwork/shadows.html" target="_blank" rel="noopener">Shadows and Bruhat intervals (Henri Nikoleit, Petra Schwer)</a>
 - <a href="https://www.graphicayley.de/" target="_blank" rel="noopener">Visualize Cayley graphs of your favourite groups</a> 
