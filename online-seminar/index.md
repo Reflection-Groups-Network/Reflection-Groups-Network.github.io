@@ -82,7 +82,7 @@ title: The RGN Online seminar
 
 
 ### Next session: Wednesday 11 November 2026 (Autumn, time above)
-- Zoom link (to be announced)
+- Zoom Meeting ID: 670 2618 7817  (code: the first four Catalan numbers)
 
 **Sara Billey (University of Washington, USA)**
 - Title: Affine Higher Bruhat Orders

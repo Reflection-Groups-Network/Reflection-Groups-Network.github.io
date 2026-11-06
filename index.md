@@ -44,3 +44,5 @@ The events that are organized under the initiative of the RGN are identified by 
 To receive announcements: **subscribe by sending an Email to**  
 &emsp;&emsp;  *listserv(at)listserv(dot)uni-heidelberg(dot)de*  
 with content equal to "subscribe REFLECTIONGROUPSNETWORK-IMA", nothing else, no signature please, keep the subject empty.
+
+*If the link you received in the confirmation email does not work:* reply the email you received to confirm your subscription by letting the subject as it is but replacing the body of the email by  « OK CODE » Where CODE is written in the link that was sent to you at the position « OK=CODE ». 

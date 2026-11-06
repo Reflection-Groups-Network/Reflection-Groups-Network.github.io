@@ -37,7 +37,7 @@ To contact us (to advertise your event on the RGN webpage, to organize an event 
 # Steering committee
 
 - *<a href="https://hohlweg.math.uqam.ca/" target="_blank" rel="noopener noreferrer">Christophe Hohlweg</a>*  
-  Département de mathématiques – LACIM, Université du Québec à Montréal, Québec, Canada  
+  Département de mathématiques – LACIM, Université du Québec à Montréal UQAM), Québec, Canada  
 
 - *<a href="https://sites.google.com/site/martinalanini5/home/" target="_blank" rel="noopener noreferrer">Martina Lanini</a>*  
   Università di Roma Tor Vergata, Dipartimento di Matematica, Italy  
